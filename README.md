@@ -12,7 +12,6 @@ Crafted for those who never go AFK - by **Mohammed Saqlain**.
 - Runs silently in the background
 - Minimizes to system tray with restore/quit options
 - Custom tray icon and window icon
-- Desktop shortcut and installer
 
 ## 🖥️ How It Works
 
