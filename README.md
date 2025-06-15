@@ -1,6 +1,6 @@
 # 🖱️ Mousekeeter
 
-**Mousekeeter** is a lightweight utility that keeps your PC active by periodically moving the mouse and performing right-clicks — useful for preventing screen lock and staying "Active" on tools like Microsoft Teams.
+**Mousekeeter** is a lightweight utility that keeps your PC active by periodically moving the mouse and performing right-clicks — useful for preventing screen lock and staying "Active" on apps like Microsoft Teams, Zoom etc..
 
 Crafted for those who never go AFK - by **Mohammed Saqlain**.
 
